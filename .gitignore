@@ -1,0 +1,5 @@
+.env
+/data
+/chroma_db
+/chroma_db_tourism
+/chroma_db_tourism_v2
